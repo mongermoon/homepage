@@ -67,7 +67,8 @@ body {
         margin-right: 0;
     }
 }
-.contact-info__header,
+
+ .contact-info__header,
   .contact-info__sub-header {
       text-align: center;
   }
